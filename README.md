@@ -8,8 +8,8 @@ A Python project that checks whether a specific port on a given host is open or 
 - Open/Closed status
 
 ## Technology
-Python
-Socket Module
+- Python
+- Socket Module
 
 ## Run
 
